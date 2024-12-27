@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ff2089419fcf77346a95b41ae9d46d2a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _followCam: {instanceID: 0}
+  - _mainCam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
